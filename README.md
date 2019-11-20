@@ -1,5 +1,7 @@
 # fall-workshop-2019
-Fall Workshop 2019
+
+Getting Started:
+1. Open the iPython Notebook in Google Colabs by clicking [here](https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb)
 
 File List:
 - **trump_tweets.json** - Archive of tweets from Inauguration (1/20/2019) to 11/19/2019 - last updated at 4:00 pm PST. Downloaded from [Trump Twitter Archive](trumptwitterarchive.com)
