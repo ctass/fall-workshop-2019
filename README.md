@@ -1,9 +1,11 @@
 # fall-workshop-2019
 
-Getting Started:
-1. Open the iPython Notebook in [Google Colabs](https://colab.research.google.com) by clicking this link: [https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb](https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb)
+## Getting Started:
+Open the iPython Notebook in [Google Colabs](https://colab.research.google.com) by clicking this link: [https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb](https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb)
 
-File List:
+If you're working with a group, you can share one copy among the group from Google Colabs.
+
+## File List:
 - **Fall_Workshop_2019.ipynb** - iPython notebook containing starter code for the workshop. [Open in Google Colab](https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb)
 - **mfd.dict** - Moral Foundations Dictionary for aligning documents along dimensions according to [Moral Foundations Theory](https://moralfoundations.org/)
 - **moc_handle_dict.json** - Dictionary mapping members of Congress to their Twitter handles.
