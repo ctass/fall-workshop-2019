@@ -1,7 +1,7 @@
 # fall-workshop-2019
 
 ## Getting Started:
-Open the iPython Notebook in [Google Colabs](https://colab.research.google.com) by clicking this link: [https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb](https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/fall_workshop_2019.ipynb)
+Open the iPython Notebook in [Google Colabs](https://colab.research.google.com) by clicking this link: [https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/Fall_Workshop_2019.ipynb](https://colab.research.google.com/github/ctass/fall-workshop-2019/blob/master/Fall_Workshop_2019.ipynb)
 
 If you're working with a group, you can share one copy among the group from Google Colabs.
 
